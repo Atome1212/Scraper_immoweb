@@ -11,7 +11,7 @@
 
 This project is designed to scrape property information from the Immoweb website, focusing on extracting various data points for comprehensive analysis. The data includes locality, property type, price, and additional details like the number of bedrooms, living area, and more. All collected data is stored in a CSV file for further analysis and machine learning purposes.
 
-## 🔗 Project Directory Structure
+## 🌳 Project Directory Structure
 
 ```plaintext
 SCRAPER_IMMOWEB/
