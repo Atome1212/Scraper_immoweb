@@ -3,7 +3,7 @@
 ## 📜 Project Description
 *This project is designed to scrape property information from the Immoweb website, focusing on extracting various data points for comprehensive analysis. The data includes locality, property type, price, and additional details like the number of bedrooms, living area, and more. All collected data is stored in a CSV file for further analysis and machine learning purposes.*
 
-[![N|Solid](https://www.promptcloud.com/wp-content/uploads/2018/07/what-is-web-scraping-diagram.png "easter egg")](https://ih1.redbubble.net/image.1303800767.8302/raf,360x360,075,t,fafafa:ca443f4786.jpg)
+[![N|Solid](https://www.promptcloud.com/wp-content/uploads/2018/07/what-is-web-scraping-diagram.png "easter egg")](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley&autoplay=1)
 ***click on the image to use our scraper...***
 
 
