@@ -92,9 +92,9 @@ To run the scraper app locally, follow these steps:
 
 4. Once you did all the these steps, type this commande in the terminal:
 
-    python3 main.py
-          or 
-    python main.py
+    python3 main.py        <br>
+          or               <br>
+    python main.py         <br>
 
 
 ---
