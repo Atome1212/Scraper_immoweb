@@ -75,26 +75,26 @@ To run the scraper app locally, follow these steps:
 1. Clone the repository:
 
     
-    git clone https://github.com/Atome1212/Scraper_immoweb
+    ``` git clone https://github.com/Atome1212/Scraper_immoweb ```
     
 
 2. Navigate into the cloned repository:
 
     
-    cd ./Scraper_immoweb/
+    ``` cd ./Scraper_immoweb/ ```
 
 
 3. Install the necessary dependencies using pip:
 
     
-    pip install -r requirements.txt
+    ``` pip install -r requirements.txt ```
     
 
 4. Once you did all the these steps, type this commande in the terminal:
 
-    python3 main.py        <br>
-          or               <br>
-    python main.py         <br>
+   ``` python3 main.py ```   
+          or               
+   ``` python main.py ```
 
 
 ---
