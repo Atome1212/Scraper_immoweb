@@ -36,11 +36,11 @@ SCRAPER_IMMOWEB/
 - **```get_links(self, page) -> List[str]```** 
 Retrieves property links from a search result page by sending an HTTP GET request and parsing the HTML to find all relevant links.
 
-- **```extract_json_data(self, url) -> Dict[str, Any]```** Fetches JSON data from a property detail page by sending an HTTP GET request and parsing the HTML to extract the JSON data.
+- **```extract_json_data(self, url:str) -> Dict[str, Any]```** Fetches JSON data from a property detail page by sending an HTTP GET request and parsing the HTML to extract the JSON data.
 
 - **```save_data(self, data, filename) -> none```**: Saves extracted property data to a CSV file, creating the file and writing headers if necessary. Increments a counter for each property and handles data specific to sale or rent.
 
-- **```scrap(self, url) -> None```**
+- **```scrap(self, url:str) -> None```**
 Scrapes data from a property URL by extracting JSON data and saving it to a CSV file.
 
 - **```scrape_links(self, links) -> None```**
