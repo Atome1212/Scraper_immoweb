@@ -81,7 +81,7 @@ To run the scraper app locally, follow these steps:
 2. Navigate into the cloned repository:
 
     
-    cd Scraper_immoweb
+    cd ./Scraper_immoweb/
 
 
 3. Install the necessary dependencies using pip:
