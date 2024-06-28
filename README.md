@@ -64,7 +64,9 @@ def scrape_links(self, links: List[str]) -> None:
                 try:
                     future.result()
                 except Exception as e:
+                    #print(f"Error: {e}")
                     pass
+
 ```
 ## 🔧  Installation
 
